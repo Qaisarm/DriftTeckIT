@@ -299,13 +299,13 @@ D)  Loggar ut användaren
 ### 41. Vad gör `shutdown /s`?
 
 A)  Startar om datorn\
-B)  Stänger av datorn\
+**B)  Stänger av datorn**\
 C)  Försätter datorn i viloläge\
 D)  Avbryter en avstängning
 
 ### 42. Vad gör `shutdown /r`?
 
-A)  Startar om datorn\
+**A)  Startar om datorn**\
 B)  Stänger av datorn\
 C)  Visar systeminformation\
 D)  Förnyar IP-adressen
@@ -314,67 +314,67 @@ D)  Förnyar IP-adressen
 
 A)  Ange tidsgräns i sekunder\
 B)  Ange användarnamn\
-C)  Ange IP-adress\
+**C)  Ange IP-adress**\
 D)  Ange filnamn
 
 ### 44. Vad gör `shutdown /s /t 0`?
 
 A)  Startar om efter 0 sekunder\
-B)  Stänger av direkt\
+**B)  Stänger av direkt**\
 C)  Försätter datorn i viloläge\
 D)  Avbryter shutdown
 
 ### 45. Vad gör `shutdown /r /t 5`?
 
-A)  Stänger av direkt\
+**A)  Stänger av direkt**\
 B)  Startar om efter 5 sekunder\
 C)  Startar om efter 5 minuter\
 D)  Försätter datorn i viloläge
 
 # Facit
 
-1.  **B**\
-2.  **A**\
-3.  **C**\
-4.  **B**\
-5.  **A**\
-6.  **A**\
-7.  **B**\
-8.  **A**\
-9.  **A**\
-10. **A**\
-11. **B**\
-12. **B**\
-13. **B**\
-14. **A**\
-15. **C**\
-16. **B**\
-17. **A**\
-18. **B**\
-19. **A**\
-20. **B**\
-21. **A**\
-22. **A**\
-23. **B**\
-24. **C**\
-25. **A**\
-26. **A**\
-27. **B**\
-28. **B**\
-29. **A**\
-30. **C**\
-31. **B**\
-32. **B**\
-33. **A**\
-34. **B**\
-35. **A**\
-36. **B**\
-37. **B**\
-38. **A**\
-39. **B**\
-40. **C**\
-41. **B**\
-42. **A**\
-43. **A**\
-44. **B**\
-45. **B**
+1.  B\
+2.  A\
+3.  C\
+4.  B\
+5.  A\
+6.  A\
+7.  B\
+8.  A\
+9.  A\
+10. A\
+11. B\
+12. B\
+13. B\
+14. A\
+15. C\
+16. B\
+17. A\
+18. B\
+19. A\
+20. B\
+21. A\
+22. A\
+23. B\
+24. C\
+25. A\
+26. A\
+27. B\
+28. B\
+29. A\
+30. C\
+31. B\
+32. B\
+33. A\
+34. B\
+35. A\
+36. B\
+37. B\
+38. A\
+39. B\
+40. C\
+41. B\
+42. A\
+43. A\
+44. B\
+45. B

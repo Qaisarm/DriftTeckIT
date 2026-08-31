@@ -8,21 +8,21 @@ och format som exempelmaterialet "1(1).pdf".
 ### 1. Vad står MAC för?
 
 A)  Main Access Control\
-B)  Media Access Control\
+**B)  Media Access Control**\
 C)  Machine Access Connection\
 D)  Multiple Address Control
 
 ### 2. Vad är en MAC-adress?
 
 A)  En fysisk adress/identifierare för ett nätverkskort\
-B)  En adress till en webbsida\
+**B)  En adress till en webbsida**\
 C)  En adress till en hårddisk\
 D)  Ett lösenord för Wi-Fi
 
 ### 3. Hur många byte består en MAC-adress av enligt materialet?
 
 A)  4 byte\
-B)  6 byte\
+**B)  6 byte**\
 C)  8 byte\
 D)  16 byte
 
@@ -30,26 +30,26 @@ D)  16 byte
 
 A)  Med två binära tal\
 B)  Med två decimaler\
-C)  Med två hexadecimala tal\
+**C)  Med två hexadecimala tal**\
 D)  Med fyra bokstäver
 
 ### 5. Vilket av följande är ett exempel på en MAC-adress?
 
 A)  192.168.1.1\
 B)  255.255.255.0\
-C)  3A-34-52-C4-69-B8\
+**C)  3A-34-52-C4-69-B8**\
 D)  FE80::1
 
 ### 6. Vad identifierar de tre första byten i en MAC-adress?
 
 A)  Operativsystemet\
-B)  Tillverkaren av nätverkskortet\
+**B)  Tillverkaren av nätverkskortet**\
 C)  IP-nätverket\
 D)  Routerns IP-adress
 
 ### 7. Vad identifierar de tre sista byten i MAC-adressen enligt materialet?
 
-A)  Det enskilda nätverkskortet\
+**A)  Det enskilda nätverkskortet**\
 B)  Tillverkaren\
 C)  Nätverksprotokollet\
 D)  Internetleverantören
@@ -57,7 +57,7 @@ D)  Internetleverantören
 ### 8. Vilket OSI-lager tillhör MAC-adressen?
 
 A)  Lager 1 -- Fysiska\
-B)  Lager 2 -- Datalänk\
+**B)  Lager 2 -- Datalänk**\
 C)  Lager 3 -- Nätverk\
 D)  Lager 4 -- Transport
 
@@ -66,11 +66,11 @@ D)  Lager 4 -- Transport
 A)  2\
 B)  8\
 C)  10\
-D)  16
+**D)  16**
 
 ### 10. Vilka tecken används i det hexadecimala talsystemet?
 
-A)  0--9 och A--F\
+**A)  0--9 och A--F**\
 B)  0--7 och A--B\
 C)  1--16\
 D)  Endast A--Z
@@ -79,14 +79,14 @@ D)  Endast A--Z
 
 ### 11. Vad står IP för?
 
-A)  Internet Protocol\
+**A)  Internet Protocol**\
 B)  Internal Port\
 C)  Internet Port\
 D)  Information Protocol
 
 ### 12. Vad används en IP-adress till?
 
-A)  Som adress på ett nätverk\
+**A)  Som adress på ett nätverk**\
 B)  För att lagra filer\
 C)  För att identifiera ett tangentbord\
 D)  För att kryptera en hårddisk
@@ -94,21 +94,21 @@ D)  För att kryptera en hårddisk
 ### 13. Hur många byte består en IPv4-adress av enligt materialet?
 
 A)  2 byte\
-B)  4 byte\
+**B)  4 byte**\
 C)  6 byte\
 D)  16 byte
 
 ### 14. Hur många bitar består en IPv4-adress av?
 
 A)  16 bitar\
-B)  32 bitar\
+**B)  32 bitar**\
 C)  64 bitar\
 D)  128 bitar
 
 ### 15. Vilket värde kan varje del i en IPv4-adress ha?
 
 A)  0--127\
-B)  0--255\
+**B)  0--255**\
 C)  1--512\
 D)  0--1024
 
@@ -116,20 +116,20 @@ D)  0--1024
 
 A)  Hexadecimalt\
 B)  Binärt\
-C)  Decimalt\
+**C)  Decimalt**\
 D)  Oktalt
 
 ### 17. Vilka två delar delas IP-adressen upp i enligt materialet?
 
 A)  MAC-id och Host-id\
-B)  Nät-id och Host-id\
+**B)  Nät-id och Host-id**\
 C)  Router-id och Switch-id\
 D)  User-id och Server-id
 
 ### 18. Vad beskriver Nät-id?
 
 A)  Vilken dator det är i nätverket\
-B)  Vilket nätverk datorn tillhör\
+**B)  Vilket nätverk datorn tillhör**\
 C)  Vilket operativsystem datorn använder\
 D)  Vilken kabel som används
 
@@ -137,12 +137,12 @@ D)  Vilken kabel som används
 
 A)  Husnummer\
 B)  Stad\
-C)  Gata\
+**C)  Gata**\
 D)  Lägenhet
 
 ### 20. Vad beskriver Host-id?
 
-A)  Vilken dator det är i nätverket\
+**A)  Vilken dator det är i nätverket**\
 B)  Vilket nätverk datorn tillhör\
 C)  Vilken tillverkare nätverkskortet har\
 D)  Vilken internetleverantör som används
@@ -152,13 +152,13 @@ D)  Vilken internetleverantör som används
 ### 21. Varför lanserades IPv6 enligt materialet?
 
 A)  För att ersätta Ethernet\
-B)  För att lösa problemet med begränsat antal IP-adresser/enheter\
+**B)  För att lösa problemet med begränsat antal IP-adresser/enheter**\
 C)  För att göra MAC-adresser längre\
 D)  För att ersätta Windows
 
 ### 22. Vad är IPv6?
 
-A)  Den nya generationens internetprotokoll\
+**A)  Den nya generationens internetprotokoll**\
 B)  Ett antivirusprogram\
 C)  Ett operativsystem\
 D)  Ett filöverföringsprogram
@@ -167,7 +167,7 @@ D)  Ett filöverföringsprogram
 
 A)  32 bitar\
 B)  64 bitar\
-C)  128 bitar\
+**C)  128 bitar**\
 D)  256 bitar
 
 ### 24. Hur många byte motsvarar 128 bitar?
@@ -175,12 +175,12 @@ D)  256 bitar
 A)  4 byte\
 B)  8 byte\
 C)  12 byte\
-D)  16 byte
+**D)  16 byte**
 
 ### 25. Hur skrivs IPv6-adresser enligt materialet?
 
 A)  Som enbart decimaler\
-B)  Som hexadecimala tal\
+**B)  Som hexadecimala tal**\
 C)  Som endast binära tal\
 D)  Som MAC-adresser
 
@@ -188,7 +188,7 @@ D)  Som MAC-adresser
 
 ### 26. Vad kan man se i Nätverks- och delningscenter?
 
-A)  Status för nätverksanslutningar\
+**A)  Status för nätverksanslutningar**\
 B)  Endast installerade program\
 C)  Endast användarkonton\
 D)  Endast hårddiskens storlek
@@ -196,20 +196,20 @@ D)  Endast hårddiskens storlek
 ### 27. Vad kan man se för trådlösa nätverksanslutningar i Nätverks- och delningscenter?
 
 A)  Processorns temperatur\
-B)  Signalstyrkan\
+**B)  Signalstyrkan**\
 C)  BIOS-versionen\
 D)  RAM-minnets hastighet
 
 ### 28. Vad kan Nätverks- och delningscenter visa om nätverksåtkomst?
 
-A)  Om datorn har åtkomst till lokalt nätverk och/eller internet\
+**A)  Om datorn har åtkomst till lokalt nätverk och/eller internet**\
 B)  Om datorn har tillräckligt med RAM\
 C)  Om Windows är aktiverat\
 D)  Om antivirusprogrammet är installerat
 
 ### 29. Vad visas också i Nätverks- och delningscenter enligt materialet?
 
-A)  En karta över nätverksstrukturen\
+**A)  En karta över nätverksstrukturen**\
 B)  En karta över hårddisken\
 C)  En lista över alla filer\
 D)  En lista över BIOS-inställningar
@@ -217,27 +217,27 @@ D)  En lista över BIOS-inställningar
 ### 30. Vad händer när man klickar på anslutningens namn i Nätverks- och delningscenter?
 
 A)  Datorn startas om\
-B)  Man får upp ett fönster med uppgifter om anslutningen\
+**B)  Man får upp ett fönster med uppgifter om anslutningen**\
 C)  Nätverkskortet avinstalleras\
 D)  IP-adressen raderas
 
 ### 31. Vad visar knappen "Information" för en nätverksanslutning?
 
-A)  Bland annat vilka IP-adresser som används\
+**A)  Bland annat vilka IP-adresser som används**\
 B)  Endast användarens lösenord\
 C)  Endast MAC-tillverkaren\
 D)  Endast Windows-versionen
 
 ### 32. Vad används "Egenskaper" till för en nätverksanslutning?
 
-A)  För att visa eller ändra inställningarna\
+**A)  För att visa eller ändra inställningarna**\
 B)  För att stänga av datorn\
 C)  För att formatera hårddisken\
 D)  För att uppdatera BIOS
 
 ### 33. Vad kan man se under fliken "Nätverk" i anslutningens egenskaper?
 
-A)  Vilket nätverkskort som används och vilka protokoll/tjänster som är
+**A)  Vilket nätverkskort som används och vilka protokoll/tjänster som är**
     konfigurerade\
 B)  Alla dokument på datorn\
 C)  Datorns serienummer\
@@ -246,13 +246,13 @@ D)  Användarens webbhistorik
 ### 34. Vilket alternativ markerar man för att ange IP-adress för en IPv4-anslutning?
 
 A)  Internet Protocol Version 2\
-B)  Internet Protocol Version 4 (TCP/IPv4)\
+**B)  Internet Protocol Version 4 (TCP/IPv4)**\
 C)  Ethernet Version 6\
 D)  Network Address Protocol
 
 ### 35. Vilka två sätt kan man välja för IP-adress i IPv4-inställningarna?
 
-A)  Automatisk eller fast IP-adress\
+**A)  Automatisk eller fast IP-adress**\
 B)  Endast fast IP-adress\
 C)  Endast IPv6-adress\
 D)  MAC-adress eller DNS-namn
@@ -261,7 +261,7 @@ D)  MAC-adress eller DNS-namn
 
 ### 36. Vad står OSI för?
 
-A)  Open Systems Interconnect\
+**A)  Open Systems Interconnect**\
 B)  Operating System Internet\
 C)  Open Software Interface\
 D)  Online Systems Integration
@@ -271,25 +271,25 @@ D)  Online Systems Integration
 A)  4\
 B)  5\
 C)  6\
-D)  7
+**D)  7**
 
 ### 38. Vilket lager är lager 3 i OSI-modellen?
 
 A)  Transport\
-B)  Nätverk\
+**B)  Nätverk**\
 C)  Datalänk\
 D)  Session
 
 ### 39. Vilket OSI-lager använder MAC-adresser och ramar (frames)?
 
 A)  Lager 1 -- Fysiska\
-B)  Lager 2 -- Datalänk\
+**B)  Lager 2 -- Datalänk**\
 C)  Lager 3 -- Nätverk\
 D)  Lager 4 -- Transport
 
 ### 40. Vilket påstående om OSI-lagren och protokollen stämmer enligt materialet?
 
-A)  TCP och UDP hör till lager 4, medan IP hör till lager 3\
+**A)  TCP och UDP hör till lager 4, medan IP hör till lager 3**\
 B)  TCP och UDP hör till lager 2, medan IP hör till lager 7\
 C)  IP hör till lager 1, medan MAC hör till lager 4\
 D)  HTTP och FTP hör till lager 1
@@ -298,43 +298,43 @@ D)  HTTP och FTP hör till lager 1
 
 # Facit (Rätt Svar)
 
-**B**\
-**B**\
-**B**\
-**C**\
-**C**\
-**B**\
-**A**\
-**B**\
-**D**\
-**A**\
-**A**\
-**A**\
-**B**\
-**B**\
-**B**\
-**C**\
-**B**\
-**B**\
-**C**\
-**A**\
-**B**\
-**A**\
-**C**\
-**D**\
-**B**\
-**A**\
-**B**\
-**A**\
-**A**\
-**B**\
-**A**\
-**A**\
-**A**\
-**B**\
-**A**\
-**A**\
-**D**\
-**B**\
-**B**\
+B\
+B\
+B\
+C\
+C\
+B\
+A\
+B\
+D\
+A\
+A\
+A\
+B\
+B\
+B\
+C\
+B\
+B\
+C\
+A\
+B\
+A\
+C\
+D\
+B\
+A\
+B\
+A\
+A\
+B\
+A\
+A\
+A\
+B\
+A\
+A\
+D\
+B\
+B\
 A
