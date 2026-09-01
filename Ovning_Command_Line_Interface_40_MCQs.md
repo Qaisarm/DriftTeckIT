@@ -27,8 +27,7 @@ D)  Ändra hårdvarans storlek
 
 ### 4. Varför kan CLI vara användbart jämfört med grafiska gränssnitt?
 
-**A)  Det kan ge detaljerad information som inte alltid finns i grafiska**
-    gränssnitt\
+**A)  Det kan ge detaljerad information som inte alltid finns i grafiska gränssnitt**\
 B)  Det kräver ingen dator\
 C)  Det fungerar endast utan operativsystem\
 D)  Det ersätter all hårdvara
