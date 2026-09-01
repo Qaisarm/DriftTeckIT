@@ -97,7 +97,7 @@ D)  Batteriets kapacitet
 
 ### 14. Vad visar `netstat`?
 
-**A)  Aktiva nätverksanslutningar och öppna portar**\
+**A) Visar aktiva nätverksanslutningar och öppna portar**\
 B)  Alla filer i en katalog\
 C)  Alla användarkonton\
 D)  Alla Windows-tjänster
