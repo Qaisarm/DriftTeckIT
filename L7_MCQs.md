@@ -274,7 +274,7 @@ D)  Raderar laboration.txt
 
 `move test2 C:\`
 
-**A)  Flyttar test2 till roten på C: **
+**A)  Flyttar test2 till roten på C: **\
 B)  Kopierar test2 till Desktop\
 C)  Byter namn på test2\
 D)  Tar bort test2
