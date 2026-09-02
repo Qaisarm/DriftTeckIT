@@ -113,7 +113,7 @@ D)  `cd Test2 C:\`
 
 A)  Till skrivbordet\
 B)  Till Test1\
-**C)  Till C: **
+**C)  Till C:**\
 D)  Till Documents
 
 ### 17. Vad händer med Test2 på skrivbordet efter flytten?
