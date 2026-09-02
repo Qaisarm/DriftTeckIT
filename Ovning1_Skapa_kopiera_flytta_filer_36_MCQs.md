@@ -140,7 +140,7 @@ D)  NewFolder
 ### 20. Var finns RootFolder efter namnbytet?
 
 A)  På skrivbordet\
-**B)  I C: **
+**B)  I C:**\
 C)  I Test1\
 D)  I Documents
 
