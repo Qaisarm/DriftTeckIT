@@ -14,8 +14,8 @@ D)  Multiple Address Control
 
 ### 2. Vad är en MAC-adress?
 
-A)  En fysisk adress/identifierare för ett nätverkskort\
-**B)  En adress till en webbsida**\
+**A)  En fysisk adress/identifierare för ett nätverkskort**\
+B)  En adress till en webbsida\
 C)  En adress till en hårddisk\
 D)  Ett lösenord för Wi-Fi
 
